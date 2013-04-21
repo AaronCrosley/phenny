@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 wiktionary.py - Phenny Wiktionary Module
 Copyright 2009, Sean B. Palmer, inamidst.com

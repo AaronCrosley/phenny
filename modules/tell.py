@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 tell.py - Phenny Tell and Ask Module
 Copyright 2008, Sean B. Palmer, inamidst.com

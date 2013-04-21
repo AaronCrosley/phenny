@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 8ball.py - magic 8-ball
 author: mutantmonkey <mutantmonkey@mutantmonkey.in>

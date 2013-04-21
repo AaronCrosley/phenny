@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 remind.py - Phenny Reminder Module
 Copyright 2011, Sean B. Palmer, inamidst.com

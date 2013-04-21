@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 seen.py - Phenny Seen Module
 Copyright 2008, Sean B. Palmer, inamidst.com

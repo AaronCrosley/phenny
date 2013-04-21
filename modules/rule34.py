@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 rule34.py - rule 34 module
 author: mutantmonkey <mutantmonkey@mutantmonkey.in>

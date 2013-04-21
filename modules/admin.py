@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 admin.py - Phenny Admin Module
 Copyright 2008-9, Sean B. Palmer, inamidst.com

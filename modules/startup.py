@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 startup.py - Phenny Startup Module
 Copyright 2008, Sean B. Palmer, inamidst.com

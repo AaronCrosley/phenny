@@ -19,7 +19,7 @@ dotdir = os.path.expanduser('~/.phenny')
 
 def check_python_version(): 
     if sys.version_info < (3, 0): 
-        error = 'Error: Requires Python 3.0 or later, from www.python.org'
+        error = 'Error: Requires Python 3.0 or later, from http://python.org/download/'
         print(error, file=sys.stderr)
         sys.exit(1)
 

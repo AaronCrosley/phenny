@@ -3,7 +3,7 @@ phenny
 
 This is a port of phenny, a Python IRC bot, to Python3. It is currently fairly
 stable, but it has not been as well-tested as the original. It was developed
-for #vtluug on OFTC.
+for #vtluug on OFTC. And is now used for a few other channels.
 
 New features include many new modules, IPv6 and TLS support (which requires
 Python 3.2), and unit tests.
@@ -29,3 +29,7 @@ Authors
 -------
 * Sean B. Palmer, http://inamidst.com/sbp/
 * mutantmonkey, http://mutantmonkey.in
+
+Contributor
+-----------
+* Lukas Lozovski, http://lukas.lozovski.lt
