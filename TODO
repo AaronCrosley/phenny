@@ -1,0 +1,3 @@
+* Validate that address is 5 numeric addresses.
+* If more or less, complain.
+

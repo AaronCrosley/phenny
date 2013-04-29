@@ -11,11 +11,13 @@ import urllib.error
 import random
 import metar
 import web
+import re
 
 def tfw(phenny, input, fahrenheit=False, celsius=False):
     """.tfw <city/zip> - Show the fucking weather at the specified location."""
 
     where = input.group(2)
+    where = re.sub("^0+","",where)
     if not where:
         # default to Blacksburg, VA
         icao_code = "KBCB"
