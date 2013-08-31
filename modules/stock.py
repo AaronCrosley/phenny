@@ -19,8 +19,7 @@ def get_price(symbol):
 
 
 def stock(phenny, input):
-	quote = get_price(input)
-	phenny.say(quote)
+	phenny.say(get_price(input))
 
 
 stock.commands = ['stock']
