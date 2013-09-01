@@ -1,9 +1,6 @@
 * Validate that address is 5 numeric addresses.
 * If more or less, complain.
 
-*Add stock tracker module
--.stock AAPL and it returns the current price or something
-
 *Add module to get pictures from subreddits
 -Main use will be to retrieve porn
 -.save [img url] to save the images to an album
