@@ -7,6 +7,7 @@ author: Aaron Crosley <acrosley108@gmail.com>
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode
 
+
 def _request(symbol, stat):
     url = 'http://finance.yahoo.com/d/quotes.csv?s=%s&f=%s' % (symbol, stat)
     req = Request(url)
@@ -19,8 +20,10 @@ def get_price(symbol):
 
 
 def stock(phenny, input):
-	stock = str(get_price(input))
-	phenny.say(stock)
+	stock = get_price(input)
+	#stock = stock.replace(stock[:3], '')
+	stock = stock.lstrip('0.')
+	phenny.say('$' + stock)
 
 
 stock.commands = ['stock']
