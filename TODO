@@ -1,3 +1,7 @@
 * Validate that address is 5 numeric addresses.
 * If more or less, complain.
 
+*Add module to get pictures from subreddits
+-Main use will be to retrieve porn
+-.save [img url] to save the images to an album
+-some way to retrieve the album url 
